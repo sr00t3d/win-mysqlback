@@ -1,5 +1,7 @@
 # win-mysqlback — CLI Cross-Platform de Backup MySQL/MariaDB (`v2.0.0`)
 
+![win-mysqlback cover](win-mysqlback-cover.webp)
+
 Uma CLI moderna e multiplataforma em **Bash + Python 3** (`win-mysqlback.sh`) e **Windows PowerShell 5.1+/7+** nativo (`win-mysqlback.ps1`) para backup seguro de bancos MySQL/MariaDB com compressão, hash SHA-256, retenção automática e saídas `table` / `json` / `csv`.
 
 ## Modernização Histórica
